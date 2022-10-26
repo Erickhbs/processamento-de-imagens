@@ -1,0 +1,2 @@
+figure('Name','Diagnóstico')
+
